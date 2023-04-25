@@ -1,0 +1,19 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto de Nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/saacostas/Guia-hoteles.git"
+  },
+  "author": "Stiven Acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saacostas/Guia-hoteles/issues"
+  },
+  "homepage": "https://github.com/saacostas/Guia-hoteles#readme"
+}
